@@ -34,4 +34,3 @@ def check_lists(list_to_compare1, list_to_compare2):
             return  False
     else:
         return  False
-def list_of_lists(list_of_lists_to_modify):
